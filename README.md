@@ -1,4 +1,4 @@
-Róźne wersje Among Us
+Róźne wersje Among Us (Steam)
 
 Wersje:                                                                    
 7.12s: https://github.com/Kiszonyyy/Kiszonyyy/releases/download/Among/7.12s.rar        
