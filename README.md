@@ -5,4 +5,5 @@ Wersje (Steam):
 11.28: https://github.com/Kiszonyyy/Kiszonyyy/releases/download/AmongUs/11.28s.rar
 
 Wersje (Epic Games):                                                                            
-7.12e:
+7.12e:       
+https://github.com/Kiszonyyy/Kiszonyyy/releases/download/AMong/Epic.Games.TOR.v4.4.2.zip.zip
