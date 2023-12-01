@@ -36,7 +36,7 @@ https://github.com/Kiszonyyy/Kiszonyyy/releases/tag/AMong
 ![image](https://github.com/Kiszonyyy/Kiszonyyy/assets/152332368/ead372d8-5992-4e5f-bdae-d5e2f3a55cef)                                                
 7 Tak jak wcześniej wchodzimy w pliki Among Us przez Epic Games i wklejamy wcześniej skopiowane pliki.
 ![image](https://github.com/Kiszonyyy/Kiszonyyy/assets/152332368/c9fc306b-d459-4fdd-9736-141bf68a6aed)                                                        
-8 Odpalamy Among Us przez Epic Games.
+8 Odpalamy Among Us przez Epic Games.                                                                                                  
 ![image](https://github.com/Kiszonyyy/Kiszonyyy/assets/152332368/b1c5cb1b-c0c7-42e6-b65a-2ad06a0d2c84)                                                                              
 Uwaga!!!!! Po wyłączeniu Epic Games gra wymusza aktualizację, dlatego za każdym razem trzeba robić to:                                                          
 ![image](https://github.com/Kiszonyyy/Kiszonyyy/assets/152332368/9660b6c4-9a32-47e4-8bf3-1cd835cfde24)                                                      
