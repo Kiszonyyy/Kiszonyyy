@@ -2,8 +2,7 @@ Wersje Among Us (Epic Games)
 Grę Trzeba Posiadać Na Epic Games!!!!!!!!!!!!!!!                    
 
 Wersje:                                                                                          
-7.12e:       
-https://github.com/Kiszonyyy/Kiszonyyy/releases/download/AMong/Epic.Games.TOR.v4.4.2.zip.zip
+7.12e: https://github.com/Kiszonyyy/Kiszonyyy/releases/download/AMong/Epic.Games.TOR.v4.4.2.zip.zip
 
 PORADNIK DO EPIC GAMES                                                  
 https://github.com/Kiszonyyy/Kiszonyyy/releases/tag/AMong                                                             
